@@ -2,7 +2,7 @@
 
 This repository contains my solutions to the GlobalTrend Programming Assessment. The assessment includes 10 Python programming tasks covering a variety of topics.
 
-## Table of Contents
+## Table of Contents...
 
 1. [MaxHeap Class](#maxheap-class)
 2. [URL Downloader with Retry](#url-downloader-with-retry)
