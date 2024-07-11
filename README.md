@@ -15,7 +15,7 @@ This repository contains my solutions to the GlobalTrend Programming Assessment.
 9. [Random Password Generator](#random-password-generator)
 10. [Transpose of a Matrix](#transpose-of-a-matrix)
 
-## MaxHeap Class
+## MaxHeap Class...
 
 **File:** `max_heap.py`
 
