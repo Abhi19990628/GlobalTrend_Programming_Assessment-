@@ -1,0 +1,19 @@
+def arithmetic_operation(a, b, operator):
+    if operator == '+':
+        return a + b
+    elif operator == '-':
+        return a - b
+    elif operator == '*':
+        return a * b
+    elif operator == '/':
+        try:
+            return a / b
+        except ZeroDivisionError:
+            return "Error: Division by zero"
+    else:
+        return "Error: Invalid operator"
+
+# Example usage:
+print(arithmetic_operation(10, 5, '+'))  # Should print 15
+print(arithmetic_operation(10, 5, '/'))  # Should print 2.0
+print(arithmetic_operation(10, 0, '/'))  # Should print error message
