@@ -66,7 +66,7 @@ This script defines a Python decorator that measures the execution time of a fun
 
 This script defines a function that takes two numbers and an operator (as a string) and performs the corresponding arithmetic operation (addition, subtraction, multiplication, or division).
 
-## Random Password Generator
+## Random Password Generator....
 
 **File:** `random_password.py`
 
