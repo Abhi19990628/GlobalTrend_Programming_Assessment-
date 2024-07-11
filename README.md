@@ -1,4 +1,4 @@
-# GlobalTrend Programming Assessment
+# GlobalTrend Programming Assessment..
 
 This repository contains my solutions to the GlobalTrend Programming Assessment. The assessment includes 10 Python programming tasks covering a variety of topics.
 
